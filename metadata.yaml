@@ -1,10 +1,14 @@
 _repo: The-Poem-Book-of-the-Gael-Translations-from-Irish-Gaelic-Poetry-into-English-Prose-and-Verse_46917
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Hull, Eleanor
       gutenberg_agent_id: '44031'
       url: http://www.gutenberg.org/2009/agents/44031
+covers:
+- cover_type: archival
+  image_path: 46917-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46917#The-Poem-Book-of-the-Gael-Translations-from-Irish-Gaelic-Poetry-into-English-Prose-and-Verse
 gutenberg_issued: '2014-09-20'
 gutenberg_type: Text
 identifiers:
